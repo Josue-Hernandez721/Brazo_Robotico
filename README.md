@@ -36,5 +36,3 @@ Una vez validado el modelo CAD, se realizó la transición del ensamblaje de **S
 * 📁 `/CAD`: Archivos de partes y ensamblajes desarrollados en SolidWorks, y archivos exportados para impresión 3D.
 * 📁 `/Simulacion`: Escena de simulación configurada para CoppeliaSim.
 * 📁 `/Evidencias`: Capturas de pantalla del modelado, detalles de las nuevas pinzas y renders del entorno de simulación.
-
-*(Nota: Reemplazar este texto con las imágenes correspondientes a los bocetos, capturas de SolidWorks y de CoppeliaSim).*
