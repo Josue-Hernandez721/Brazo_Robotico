@@ -1,9 +1,10 @@
 # Mejora Estructural y Simulación de Brazo Robótico
 
-**Materia:** Laboratorio de Robótica
-**Docente:** Dominguez Chavez Jose Alfonso
-**Autor:** Josue Guadalupe Hernandez Perez
-**Autor:** Rendon Hernandez Christopher
+#### **Materia:** Laboratorio de Robótica
+#### **Docente:** Dominguez Chavez Jose Alfonso
+
+#### **Autor:** Josue Guadalupe Hernandez Perez
+#### **Autor:** Rendon Hernandez Christopher
 
 
 ## Descripción General
